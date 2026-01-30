@@ -51,8 +51,7 @@ jobs:
     - name: Get Hugo Version
       id: hugo-version
       run: |
-        VERSION=$(grep "hugo_version" hugoblox.yaml | awk '{print $2}' | tr -d "'\""")
-        echo "HUGO_VERSION=$VERSION" >> $GITHUB_ENV
+        echo "HUGO_VERSION=0.154.5" >> $GITHUB_ENV
 
     - name: Install dependencies
       run: |
