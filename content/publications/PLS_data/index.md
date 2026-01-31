@@ -7,7 +7,7 @@ authors:
 - Christian Rauh
 - Miklos Sebök
  
-date: "2022-07-01"
+date: "2025-02-14"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
