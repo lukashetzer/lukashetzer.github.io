@@ -16,7 +16,7 @@ sections:
         \n\n
         My teaching spans substantive and methods-oriented courses in political science at the undergraduate and graduate levels. It covers European politics, political behavior, and political communication, as well as survey and experimental methods, and text-as-data and AI-assisted approaches.
         \n\n
-        In recognition of my teaching, I was awarded the Faculty’s Junior Teaching Prize in 2026 for my course European Politics in Times of Crisis."
+        In recognition of my teaching, I was awarded the Faculty’s Junior Teaching Prize in 2026 for my course *European Politics in Times of Crisis*."
     
       filters:
         folders:
