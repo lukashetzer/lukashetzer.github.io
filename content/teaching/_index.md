@@ -11,7 +11,7 @@ sections:
   - block: collection
     content:
       title: "Teaching"
-      text: >
+      text: 
         I greatly enjoy teaching and mentoring students and see the classroom as an important source of intellectual exchange and inspiration. In my teaching, I place particular emphasis on connecting theoretical debates with empirical analysis and on actively engaging students in the research process.
 
         My teaching spans substantive and methods-oriented courses in political science at the undergraduate and graduate levels. It covers European politics, political behavior, and political communication, as well as survey and experimental methods, and text-as-data and AI-assisted approaches.
