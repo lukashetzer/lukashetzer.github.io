@@ -15,16 +15,21 @@ image:
 ---
 
 
-**M.Sc., Summer term 2025, University of Cologne** 
+**M.Sc., summer term 2025 (with Jasmin Rath) & summer term 2026, University of Cologne** 
 
-**Co-taught with Jasmin Rath**
 
 **Course Description:** 
 
-This MA seminar combines survey research methods with the study of current political phenomena and pressing issues of democracy. We will cover general aspects of survey research such as sampling, measurement, and questionnaire design, as well as the design and application of survey experiments. From a substantive perspective, the course addresses topics such as (affective) polarization, the rise of populism and mainstream parties' dilemmas with regard to the radical right.  Students will gain practical skills in designing and analyzing surveys and learn how these methods can be used to examine current challenges facing democratic systems. In addition, students will gain hands-on experience with preparing survey data collection, including pre-registration, considerations for ethics approval and questionnaire programming with the software *Qualtrics*. The goal of the course is for students to develop a pre-analysis plan for a research project and complete all steps except data collection.
+This MA seminar introduces advanced survey research methods through the lens of current political phenomena and pressing challenges to democracy. The course covers core elements of survey research, including sampling strategies, measurement, and questionnaire design, as well as the design and application of survey experiments. Particular emphasis is placed on advanced techniques such as vignette studies, conjoint analysis, and AI-supported conversational interviewing as an emerging approach to survey data collection.
+
+From a substantive perspective, the seminar engages with topics such as affective polarization, the rise of populism, and the strategic dilemmas faced by mainstream parties in response to the radical right. Students acquire practical skills in designing, implementing, and analyzing surveys, and learn how survey methods can be applied to the empirical study of contemporary democratic challenges.
+
+The course provides hands-on experience with preparing survey data collection, including pre-registration, ethical considerations, and questionnaire programming using Qualtrics. By the end of the seminar, students develop a complete pre-analysis plan for an original research project and carry out all stages of the research process except data collection.
+
+**Learning Goals** 
 
 By the end of the course, successful students will achieve the following learning goals: 
-- **Designing survey research:** Students have in-depth knowledge of core survey methods, including sampling, measurement, questionnaire design, and advanced techniques like vignettes and conjoint analyses.
-- **Practical implementation of survey research:** Students will be able to implement research projects using survey methods, including programming questionnaires in Qualtrics, while ensuring adherence to ethical standards.
-- **Evaluating survey designs:** Students will develop the ability to critically evaluate existing survey-based research designs in the context of recent developments on challenges for democracy.
-- **Communication skills:** Students will improve their oral presentation and written communication skills, enabling them to develop, present, and refine research proposals while providing constructive feedback to their peers.
+- **Designing survey research:** Students develop in-depth knowledge of core survey methods, including sampling, measurement, and questionnaire design, as well as advanced techniques such as vignettes, conjoint analysis, and AI-based conversational interviewing.
+- **Practical implementation of survey research:** Students are able to implement survey-based research projects, including programming questionnaires in Qualtrics, while adhering to ethical and methodological standards.
+- **Evaluating survey designs:** Students acquire the ability to critically assess existing survey research designs in light of recent political developments and challenges to democratic governance.
+- **Communication skills:** Students strengthen their oral and written communication skills by developing, presenting, and refining research proposals and by providing constructive feedback to peers.
