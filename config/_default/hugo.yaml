@@ -4,7 +4,10 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
+title: "Lukas Hetzer | Doctoral Researcher in Political Science"
+params:
+  description: "Lukas Hetzer is a doctoral researcher in Political Science at the University of Cologne. Research on political behavior, European politics and crisis governance."
+
 # Website URL
 baseURL: 'https://lukashetzer.github.io/'
 
