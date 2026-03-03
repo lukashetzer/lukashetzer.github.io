@@ -1,8 +1,8 @@
 ---
 title: "ParlLawSpeech"
 authors:
-- Jan Schwalbach
 - me 
+- Jan Schwalbach
 - Sven-Oliver Proksch
 - Christian Rauh
 - Miklos Sebök
