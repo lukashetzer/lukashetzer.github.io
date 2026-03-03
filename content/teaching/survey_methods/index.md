@@ -1,5 +1,5 @@
 ---
-title: Advanced Survey Methods and Challenges to Democracy (M.Sc., with Jasmin Rath)
+title: Advanced Survey Methods and Challenges to Democracy (M.Sc.)
 
 
 summary: >
