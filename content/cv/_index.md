@@ -9,7 +9,7 @@ sections:
       title: "Curriculum Vitae"
       text: |
         <a class="btn btn-primary" href="/uploads/resume.pdf" target="_blank" rel="noopener">
-          Download full CV here (pdf)
+          Download my full CV here (pdf)
         </a>
     design:
       columns: "1"
