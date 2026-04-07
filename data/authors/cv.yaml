@@ -120,10 +120,10 @@ skills:
         level: 5
       - label: "Python"
         level: 4
-      - label: "Java"
-        level: 4
       - label: "html"
-        level: 4
+        level: 3
+      - label: "Java"
+        level: 2
   - name: "Languages"
     items:
       - label: "English"
