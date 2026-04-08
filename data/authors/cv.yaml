@@ -68,10 +68,12 @@ education:
               Adaptive Behavior of Newcomers measured through Legislative Speech\n\n
             
               "
-  # - degree: "B.Sc. Psychology"
-  #   institution: "Maastricht University"
-  #   start: "08/2014"
-  #   end: "09/2015"
+   - degree: "B.Sc. Psychology"
+     institution: "Maastricht University"
+     start: "08/2014"
+     end: "09/2015"
+     summary: "Incomplete"
+
 experience:
   - role: "Doctoral Researcher"
     org: "University of Cologne, Department of Political Science"
