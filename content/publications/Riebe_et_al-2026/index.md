@@ -30,7 +30,7 @@ publication_short: ""
 # - Survey Experiments
 
 
-featured: true
+featured: false
 
 links:
   - type: link
