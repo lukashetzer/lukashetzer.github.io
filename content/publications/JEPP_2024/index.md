@@ -34,8 +34,8 @@ abstract: Economic suffering prompted by the Covid-19 pandemic, coming on the he
 featured: true
 
 links:
-  - type: pdf
-    url: https://www.tandfonline.com/doi/full/10.1080/13501763.2024.2334839?scroll=top&needAccess=true#references-Section1
+  - type: link
+    url: https://www.tandfonline.com/doi/full/10.1080/13501763.2024.2334839
   # - type: code
   #   url: https://github.com/HugoBlox/kit
   # - type: dataset
