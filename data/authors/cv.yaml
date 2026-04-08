@@ -76,7 +76,7 @@ experience:
   - role: "Doctoral Researcher"
     org: "University of Cologne, Department of Political Science"
     start: "09/2022"
-    summary: "EU Horizon Project \"OPTED\", work package 3 \n\n
+    summary: "EU Horizon Project \"OPTED\", work package 5 \n\n
               ERC Project \"MINORITYRULE\" \n\n
               Teaching: BA- & MA-level seminars & thesis supervision\n\n
               "
@@ -114,16 +114,17 @@ experience:
   #   end: "08/2019"
   #   summary: "Assistant to Prof. Heike Klüver, Chair of Comparative Political Behaviour"
 skills:
-  - name: "Programming Languages"
+  - name: "Research Tools"
     items:
       - label: "R"
         level: 5
       - label: "Python"
         level: 4
-      - label: "html"
+      - label: "Git/GitHub"
         level: 3
-      - label: "Java"
-        level: 2
+      - label: "Qualtrics"
+        level: 5
+
   - name: "Languages"
     items:
       - label: "English"
