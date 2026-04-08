@@ -14,18 +14,35 @@ postnominals:
 #status:
 #  icon: "☕️"
 role: "Doctoral Researcher"
-bio: "I am a doctoral researcher in Political Science at the 
-      University of Cologne.\n\n
-      My research lies at the intersection of European politics, comparative 
-      politics, and political communication. One recurring focus of my research concerns how political 
-      actors and citizens respond to crises and institutional constraints in 
-      multilevel political systems, with a particular focus on Europe.\n\n
-      Substantively, my work examines crisis governance, political communication, 
+bio: "I am a doctoral researcher in Political Science at the University of Cologne.\n\n
+      My research focuses on how citizens and political actors respond to crises, 
+      institutional settings, and processes of political and technological change. 
+      A recurring emphasis of my work is on democratic politics under pressure, 
+      including crisis governance, political representation, digital policy, and 
+      the communication of political conflict.\n\n
+      Substantively, my work examines political behavior, political communication, 
       and public attitudes toward democratic institutions. Methodologically, I 
       combine theory-driven research with survey experiments, large-scale text 
       data, and computational approaches to the study of political behavior and 
       political discourse.\n\n
       Please feel free to explore my work and get in touch.\n\n"
+
+bio: "I am a doctoral researcher in Political Science at the University of Cologne, 
+      where I work on political behavior, political communication, and public opinion in Europe.\n\n
+      My research focuses on how citizens and political actors respond to crises and to political and 
+      technological change. A recurring emphasis of my work is on democratic politics under pressure, 
+      with particular interests in crisis governance, political representation, digital policy, and the 
+      communication of political conflict.\n\n
+      Methodologically, I work at the intersection of political science and computational social science. 
+      I use large-scale text data, quantitative computational methods, and advanced survey designs and 
+      (quasi-)experiments to study political discourse, public opinion, and political behavior.\n\n
+      I hold a M.Sc. degree in Social Sciences Research from the University of Amsterdam and a B.Sc. degree 
+      in Social Sciences from Humboldt University Berlin. Before joining the University of Cologne, I worked 
+      at GESIS on election research and data-based knowledge transfer, and held research assistant positions 
+      at the University of Amsterdam, Ghent University, and Humboldt University Berlin. I also teach courses 
+      on quantitative methods, EU digital policy, and crisis politics.\n\n
+      Please feel free to explore my work and get in touch.\n\n"
+
 affiliations:
   - name: "University of Cologne"
     url: "https://politics.uni-koeln.de/en/"
@@ -44,16 +61,17 @@ links:
   - icon: "academicons/clarivate"
     url: "https://www.webofscience.com/wos/author/record/NMK-1111-2025"
 interests:
-  - "European Politics"
-  - "Comparative Politics"
-  - "Crisis Governance"
-  - "Political Behaviour"
+  - "Political Communication"
   - "Public Opinion"
-  - "Democratic Institutions"
+  - "Political Behaviour"
+  - "Crisis Governance"
+  - "Political Representation"
+  - "Digital Policy"
   - "Computational Social Science"
-  - "Survey Experiments"
-  - "Text-as-Data"
-
+  - "Computational Text Analysis"
+  - "Advanced Survey Designs and Experiments"
+  - "European Politics"
+  
 # education:
 #   - degree: "PhD Political Science"
 #     institution: "University of Cologne"
@@ -104,8 +122,7 @@ experience:
     start: "09/2022"
     summary: "EU Horizon Project \"OPTED\", work package 3 \n\n
               ERC Project \"MINORITYRULE\" \n\n
-              Teaching: BA- & MA-level seminars, BA thesis supervision\n\n
-              "
+              Teaching: BA- & MA-level seminars, BA thesis supervision\n\n"
 
   - role: "Specialist for Data Management and Analysis"
     org: "GESIS - Leibniz Institute for the Social Sciences, Mannheim"
@@ -118,10 +135,9 @@ experience:
     #   icon: "hero/arrow-down-tray"
   - role: "Research Assistant"
     org: "Ghent University"
-    start: "11/2020 "
+    start: "11/2020"
     end: "05/2021"
-    summary: "Assistant to Prof. Francesco Nicoli (primary supervisor), 
-              Prof. Brian Burgoon, Prof. Marius Busemeyer & Prof. Stefano Sacchi"
+    summary: "Assistant to Prof. Francesco Nicoli, gh"
   - role: "Research Assistant"
     org: "University of Amsterdam"
     start: "10/2019"
@@ -133,16 +149,17 @@ experience:
     end: "08/2019"
     summary: "Assistant to Prof. Heike Klüver, Chair of Comparative Political Behaviour"
 skills:
-  - name: "Programming Languages"
+  - name: "Research Tools"
     items:
       - label: "R"
         level: 5
       - label: "Python"
         level: 4
-      - label: "Java"
-        level: 4
-      - label: "html"
-        level: 4
+      - label: "Git/GitHub"
+        level: 3
+      - label: "Qualtrics"
+        level: 5
+
   - name: "Languages"
     items:
       - label: "English"
