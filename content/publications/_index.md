@@ -30,16 +30,16 @@ sections:
       view: citation
 
   # Book Chapters
-  - block: collection
-    id: book-chapters
-    content:
-      title: Book Chapters
-      filters:
-        folders:
-          - publications
-        publication_type: "book chapter"
-    design:
-      view: citation
+#  - block: collection
+#    id: book-chapters
+#    content:
+#      title: Book Chapters
+#      filters:
+#        folders:
+#          - publications
+#        publication_type: "book chapter"
+#    design:
+#      view: citation
 
   # Edited Volumes
   - block: collection
