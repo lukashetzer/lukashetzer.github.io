@@ -65,14 +65,13 @@ education:
     summary: "**GPA: 1.4** \n\n
 
               **Thesis title:** Position Taking in EU Parliament Speeches after the 2004 Enlargement: 
-              Adaptive Behavior of Newcomers measured through Legislative Speech\n\n
-            
-              "
+              Adaptive Behavior of Newcomers measured through Legislative Speech\n\n"
+              
    - degree: "B.Sc. Psychology"
      institution: "Maastricht University"
      start: "08/2014"
      end: "09/2015"
-     summary: "Incomplete"
+     summary: "(Degree not completed)"
 
 experience:
   - role: "Doctoral Researcher"
