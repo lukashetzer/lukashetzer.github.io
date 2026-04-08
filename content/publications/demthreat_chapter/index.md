@@ -12,7 +12,7 @@ date: "2024-05-04"
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ["book chapter"]
+publication_types: ["edited volume contribution"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Wahlen und Wähler: Analysen zur Bundestagswahl 2021*. Springer Fachmedien Wiesbaden. 179-204."
