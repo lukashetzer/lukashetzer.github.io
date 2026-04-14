@@ -11,14 +11,14 @@ sections:
   - block: collection
     content:
       title: "Teaching"
-      text: 
-        "I greatly enjoy teaching and mentoring students and see the classroom as an important source of intellectual exchange, inspiration, and growth. In my teaching, I place particular emphasis on connecting theoretical debates with empirical analysis and on actively engaging students in the research process.
-        \n\n
-        My teaching spans substantive and methods-oriented courses in political science at the undergraduate and graduate levels. It covers European politics, political behavior, and political communication, as well as survey and experimental methods, and text-as-data and AI-assisted approaches.
-        \n\n
-        In recognition of my teaching, I was awarded the Faculty’s Junior Teaching Prize in 2026, endowed with €2,000, for my seminar *European Politics in Times of Crisis*.
-        \n\n
-        My student evaluations can be found <a href="/uploads/teaching-evaluations.pdf" style="color: var(--color-primary);">here</a>. Evaluation reports are only available when a minimum number of students complete the evaluation, which is why reports are not available for all courses I have taught in the past."
+      text: |
+          I greatly enjoy teaching and mentoring students and see the classroom as an important source of intellectual exchange, inspiration, and growth.  In my teaching, I place particular emphasis on connecting theoretical debates with empirical analysis and on actively engaging students in the research process.
+          
+          My teaching spans substantive and methods-oriented courses in political science at the undergraduate and graduate levels. It covers European politics, political behavior, and political communication, as well as survey and experimental methods, and text-as-data and AI-assisted approaches.
+          
+          In recognition of my teaching, I was awarded the Faculty’s Junior Teaching Prize in 2026, endowed with €2,000, for my seminar *European Politics in Times of Crisis*.
+          
+          My student evaluations can be found <a href="/uploads/teaching-evaluations.pdf" style="color: var(--color-primary); text-decoration: underline;">here</a>. Evaluation reports are only available when a minimum number of students complete the evaluation, which is why reports are currently available for two of the four seminars I have taught so far.
     
       filters:
         folders:
