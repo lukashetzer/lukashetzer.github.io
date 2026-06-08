@@ -49,16 +49,17 @@ links:
   - icon: "academicons/clarivate"
     url: "https://www.webofscience.com/wos/author/record/NMK-1111-2025"
 interests:
+  - "European Politics"
+  - "Crisis Politics and Governance"
   - "Political Communication"
   - "Public Opinion"
   - "Political Behaviour"
-  - "Crisis Governance"
   - "Political Representation"
   - "Digital Policy"
   - "Computational Social Science"
   - "Computational Text Analysis"
-  - "Advanced Survey Designs and Experiments"
-  - "European Politics"
+  - "Survey Experiments and Advanced Survey Designs"
+
   
 # education:
 #   - degree: "PhD Political Science"
