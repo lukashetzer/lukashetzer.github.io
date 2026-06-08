@@ -18,7 +18,7 @@ sections:
           
           In recognition of my teaching, I was awarded the Faculty’s Junior Teaching Prize in 2026, endowed with €2,000, for my seminar *European Politics in Times of Crisis*.
           
-          My student evaluations can be found <a href="/uploads/teaching-evaluations.pdf" style="color: var(--color-primary); text-decoration: underline;">here</a>. Evaluation reports are only available when a minimum number of students complete the evaluation, which is why reports are currently available for two of the four seminars I have taught so far.
+          My student evaluations can be found <a href="/uploads/teaching-evaluations.pdf" style="color: var(--color-primary); text-decoration: underline;">here</a>. Evaluation reports are only available when a minimum number of students complete the evaluation, which is why reports are currently available for only two seminars.
     
       filters:
         folders:
