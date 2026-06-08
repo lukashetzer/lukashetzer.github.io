@@ -14,23 +14,23 @@ postnominals:
 #status:
 #  icon: "☕️"
 role: "Doctoral Researcher"
-
 bio: "I am a doctoral researcher in Political Science at the University of Cologne, 
-      where I work on political behavior, political communication, and public opinion in Europe.\n\n
-      My research focuses on how citizens and political actors respond to crises and to political and 
-      technological change. A recurring emphasis of my work is on democratic politics under pressure, 
-      with particular interests in crisis governance, political representation, digital policy, and the 
-      communication of political conflict.\n\n
+      where I work on European politics, political behavior, political communication, and public opinion.\n\n
+      My research focuses on how citizens, political actors, and institutions respond to crises and broader 
+      political challenges. A recurring emphasis of my work is on democratic politics under pressure, 
+      with particular interests in European integration, crisis governance, institutional change, political representation, 
+      and the communication of political conflict.\n\n
       Methodologically, I work at the intersection of political science and computational social science. 
       I use large-scale text data, quantitative computational methods, advanced survey designs and 
-      (quasi-)experiments to study political discourse, public opinion, and political behavior.\n\n
-      I hold a M.Sc. degree in Social Sciences Research from the University of Amsterdam and a B.Sc. degree 
+      (quasi-)experiments to study political discourse, public opinion, and political behavior. I am also interested 
+      in building, linking, and analysing large-scale political datasets, particularly institutional text data from 
+      parliaments and EU institutions.\n\n
+      I hold an M.Sc. degree in Social Sciences Research from the University of Amsterdam and a B.Sc. degree 
       in Social Sciences from Humboldt University Berlin. Before joining the University of Cologne, I worked 
-      at GESIS – Leibniz Institute for the Social Sciences on election research and data-based knowledge transfer, and held research assistant positions 
-      at the University of Amsterdam, Ghent University, and Humboldt University Berlin. I also teach courses 
-      on quantitative methods, EU digital policy, and crisis politics.\n\n
+      at GESIS – Leibniz Institute for the Social Sciences on election research and data-based knowledge transfer, 
+      and held research assistant positions at the University of Amsterdam, Ghent University, and Humboldt University Berlin. 
+      I also teach courses on quantitative methods, EU politics, and crisis politics.\n\n
       Please feel free to explore my work and get in touch.\n\n"
-
 affiliations:
   - name: "University of Cologne"
     url: "https://politics.uni-koeln.de/en/"
