@@ -13,7 +13,7 @@ date: "2026-03-31"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Representation*, 1–20"
+publication: "***Representation***, 1–20"
 publication_short: ""
 
 abstract: "This paper examines how perceived political (mis)representation in climate policy is associated with citizens’ emotional responses. Using original survey data from Germany (N = 879), we analyse how preferences on a newly formulated climate-freedom trade-off – prioritising climate protection versus preserving personal freedoms – relate to climate anxiety. Beyond the established minimal-distance approach, we introduce the concept of representational isolation, capturing situations in which individuals place themselves outside the range of all perceived party positions. Our results indicate that minimal ideological distance is not significantly associated with climate anxiety, contrary to conventional expectations. By contrast, representational isolation is linked to distinct emotional patterns: individuals holding more climate-protective views than any party report higher levels of climate anxiety, while those prioritising personal freedoms more than any party report lower levels. These results are robust across model specifications and when replicated with the conventional climate-growth measure."
