@@ -3,10 +3,12 @@ title: "Caught in the Crossfire. Electoral Spillover Effects of Accommodating th
 
 authors:
   - Jasmin Rath
-  - "**Lukas Hetzer**"
+  - Lukas Hetzer
   - Jan Berz
   - L. Constantin Wurthmann
   - Sarah Wagner
+
+date: "2026-09-23"
 
 publication_types:
   - article-journal
