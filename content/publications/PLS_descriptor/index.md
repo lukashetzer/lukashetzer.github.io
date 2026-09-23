@@ -13,7 +13,7 @@ date: "2026-09-19"
 publication_types:
   - article-journal
 
-publication: "***Scientific Data, 13***, 1327"
+publication: "***Scientific Data***, *13*, 1327"
 
 links:
   - type: link
