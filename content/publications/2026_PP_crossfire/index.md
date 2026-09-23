@@ -15,7 +15,7 @@ abstract: "Mainstream parties face mounting pressure from radical right challeng
 publication_types:
   - article-journal
 
-publication: "*Party Politics* (forthcoming)"
+publication: "***Party Politics*** (forthcoming)"
 
 featured: false
 ---
