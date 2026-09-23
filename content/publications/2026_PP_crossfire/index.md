@@ -3,7 +3,7 @@ title: "Caught in the Crossfire. Electoral Spillover Effects of Accommodating th
 
 authors:
   - Jasmin Rath
-  - Lukas Hetzer
+  - me
   - Jan Berz
   - L. Constantin Wurthmann
   - Sarah Wagner
