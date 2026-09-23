@@ -12,7 +12,7 @@ date: "2024-04-15"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of European Public Policy*, *31*(10), 3093-3127"
+publication: "***Journal of European Public Policy***, *31*(10), 3093-3127"
 publication_short: ""
 
 abstract: Economic suffering prompted by the Covid-19 pandemic, coming on the heels of earlier 2008 global-financial and 2015 migration crises, revived debate on citizen support for European fiscal integration policies. Such support can be expected to reflect not only individual-level characteristics but also the extent of crisis exposure in subnational regional contexts where individuals live and work. Unfortunately, existing studies of public support have said little about such regional contexts. This study hence explores how regional-level experience with ‘polycrisis’ affects support for EU fiscal capacities, combining regional-level crisis measures with a 2020 survey experiment on European citizens’ preferences towards fiscal capacity instruments in 5 European countries (DE, ES, FR, IT, NL). This allows tests of whether individual support for various European fiscal capacities reflect regional differences in covid suffering, growth losses after the 2008 global financial crisis, and migration spikes from the 2015 migration crisis. We expect and find that citizens in regions more heavily impacted by the pandemic, financial crisis, and (albeit less so) migration crisis – measured separately and as a composite – tend to more readily support European fiscal integration capacity that is redistributive between countries, financed through progressive taxation, refrains from budgetary conditionality, and is lenient towards reform non-compliance.
