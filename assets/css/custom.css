@@ -7,3 +7,8 @@
 }
 
 
+/* Bold my name in publication author lists */
+.author-highlighted {
+  font-weight: 700 !important;
+}
+
