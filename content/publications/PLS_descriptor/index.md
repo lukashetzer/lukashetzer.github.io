@@ -3,7 +3,7 @@ title: "The ParlLawSpeech Parliamentary Text Data Collection >3 Million Parliame
 
 authors:
   - Jan Schwalbach
-  - **me**
+  - me
   - Sven-Oliver Proksch
   - Christian Rauh
   - Miklós Sebők
