@@ -5,3 +5,9 @@
     padding-bottom: 2rem !important;
   }
 }
+
+
+/* Bold my name in publication author lists */
+a[href*="/authors/me/"] {
+  font-weight: 700;
+}
