@@ -1,6 +1,7 @@
 schema: "hugoblox/author/v1"
 slug: "me"
 is_owner: true
+
 name:
   display: "Lukas Hetzer"
   given: "Lukas"
@@ -8,35 +9,33 @@ name:
   alternate: ""
   pronunciation: ""
   pronouns: "he/him"
-postnominals:
-#  - "PhD"
-#  - "MIEEE"
-#status:
-#  icon: "☕️"
-role: "Doctoral Researcher"
-bio: "I am a doctoral researcher in Political Science at the University of Cologne, 
-      where I work on European politics, political behavior, political communication, and public opinion.\n\n
-      My research focuses on how citizens, political actors, and institutions respond to crises and broader 
-      political challenges. A recurring emphasis of my work is on democratic politics under pressure, 
-      with particular interests in European integration, crisis governance, institutional change, political representation, 
-      and the communication of political conflict.\n\n
-      Methodologically, I work at the intersection of political science and computational social science. 
-      I use large-scale text data, quantitative computational methods, advanced survey designs and 
-      (quasi-)experiments to study political discourse, public opinion, and political behavior. I am also interested 
-      in building, linking, and analysing large-scale political datasets, particularly institutional text data from 
-      parliaments and EU institutions.\n\n
-      I hold an M.Sc. degree in Social Sciences Research from the University of Amsterdam and a B.Sc. degree 
-      in Social Sciences from Humboldt University Berlin. Before joining the University of Cologne, I worked 
-      at GESIS – Leibniz Institute for the Social Sciences on election research and data-based knowledge transfer, 
-      and held research assistant positions at the University of Amsterdam, Ghent University, and Humboldt University Berlin. 
-      I also teach courses on quantitative methods, EU politics, and crisis politics.\n\n
-      Please feel free to explore my work and get in touch.\n\n"
+
+postnominals: []
+# status:
+#   icon: "☕️"
+
+role: "Research Associate"
+
+bio: |
+  I am a Research Associate at the Jacques Delors Centre at the Hertie School and part of the DFG-funded Research Unit “Reconfiguring Europe: Between Competence and Control”, where I work on the Coordination Project. I am also completing my PhD in Political Science at the University of Cologne.
+
+  My research focuses on European politics, political communication, public opinion, and crisis governance. I am particularly interested in how citizens, political actors, and institutions respond to political crises and broader political challenges, and how these responses shape European integration, political representation, and institutional change.
+
+  Methodologically, I work at the intersection of political science and computational social science. I use large-scale text data, computational text analysis, advanced survey designs, and (quasi-)experiments to study political discourse, public opinion, and political behaviour. I am also interested in building, linking, and analysing large-scale political datasets, particularly institutional text data from parliaments and EU institutions.
+
+  Before joining the Hertie School, I worked as a doctoral researcher at the University of Cologne and at GESIS – Leibniz Institute for the Social Sciences, where I worked on election research and data-based knowledge transfer. I also held research assistant positions at the University of Amsterdam, Ghent University, and Humboldt University of Berlin. I hold an M.Sc. in Social Sciences Research from the University of Amsterdam and a B.Sc. in Social Sciences from Humboldt University of Berlin.
+
+  I also teach courses on quantitative methods, EU politics, and crisis politics.
+
+  Please feel free to explore my work and get in touch.
+
 affiliations:
-  - name: "University of Cologne"
-    url: "https://politics.uni-koeln.de/en/"
+  - name: "Hertie School, Jacques Delors Centre"
+    url: "https://www.delorscentre.eu/"
+
 links:
   - icon: "at-symbol"
-    url: "mailto:lukas.hetzer@wiso.uni-koeln.de"
+    url: "mailto:l.hetzer@hertie-school.org"
     label: "E-mail Me"
   - icon: "brands/bluesky"
     url: "https://bsky.app/profile/lukashetzer.bsky.social"
@@ -48,6 +47,7 @@ links:
     url: "https://orcid.org/0000-0003-4797-6230"
   - icon: "academicons/clarivate"
     url: "https://www.webofscience.com/wos/author/record/NMK-1111-2025"
+
 interests:
   - "European Politics"
   - "Crisis Politics and Governance"
@@ -60,31 +60,138 @@ interests:
   - "Computational Text Analysis"
   - "Survey Experiments and Advanced Survey Designs"
 
-  
 # education:
 #   - degree: "PhD Political Science"
 #     institution: "University of Cologne"
 #     start: "10/2022"
 #     # end: "XXX"
-#     summary: "**Thesis title:** PLACEHOLDER\n\n
-#               "
+#     summary: |
+#       **Thesis title:** PLACEHOLDER
 #     # button:
 #     #   text: "Download dissertation"
 #     #   url: "/resume.pdf"
 #     #   icon: "hero/arrow-down-tray"
+#
 #   - degree: "M.Sc. Social Sciences Research"
 #     institution: "University of Amsterdam"
 #     start: "09/2019"
 #     end: "08/2021"
-#     summary: "**GPA: 8.61 (with distinction)** \n\n
+#     summary: |
+#       **GPA: 8.61 (with distinction)**
+#
+#       **Thesis title:** Regional Inequality and European Fiscal Solidarity in Times of Crisis: How Regional Wealth and Covid-19 Impact Shape Public Support for EU Risk Sharing
+#
+#       **Thematic specialization:** Political Representation, Communication, Preferences, and Behaviour
+#
+#       **Methodological specialization:** Natural Language Processing, (Quasi-)Experiments, Advanced Survey Design and Analysis
+#
+#       **Supervisors:** Prof. Francesco Nicoli & Prof. Theresa Kuhn
+#
+#   - degree: "B.Sc. Social Sciences"
+#     institution: "Humboldt University of Berlin"
+#     start: "10/2016"
+#     end: "07/2019"
+#     summary: |
+#       **GPA: 1.4**
+#
+#       **Thesis title:** Position Taking in EU Parliament Speeches after the 2004 Enlargement: Adaptive Behavior of Newcomers measured through Legislative Speech
+#
+#   - degree: "B.Sc. Psychology"
+#     institution: "Maastricht University"
+#     start: "08/2014"
+#     end: "09/2015"
 
-#               **Thesis title:** Regional Inequality and European Fiscal 
-#               Solidarity in Times of Crisis: How Regional Wealth and Covid-19 
-#               Impact Shape Public Support for EU Risk Sharing\n\n
-            
-#               "
-#               # **Thematic specialization:** Political Representation, 
-#               # Communication, Preferences, and Behaviour\n\n
+experience:
+  - role: "Research Associate"
+    org: "Hertie School, Jacques Delors Centre"
+    start: "10/2026"
+    summary: |
+      Coordination Project of the DFG-funded Research Unit “Reconfiguring Europe: Between Competence and Control”
+
+  - role: "Doctoral Researcher"
+    org: "University of Cologne, Department of Political Science"
+    start: "09/2022"
+    end: "09/2026"
+    summary: |
+      EU Horizon Project "OPTED", work package 3
+
+      ERC Project "MINORITYRULE"
+
+      Teaching: BA- and MA-level seminars, BA thesis supervision
+
+  - role: "Specialist for Data Management and Analysis"
+    org: "GESIS – Leibniz Institute for the Social Sciences, Mannheim"
+    start: "10/2021"
+    end: "09/2022"
+    summary: "Election research and data-based knowledge transfer"
+    # button:
+    #   text: "View portfolio"
+    #   url: "/"
+    #   icon: "hero/arrow-down-tray"
+
+  - role: "Research Assistant"
+    org: "Ghent University"
+    start: "11/2020"
+    end: "05/2021"
+    summary: "Assistant to Prof. Francesco Nicoli"
+
+  - role: "Research Assistant"
+    org: "University of Amsterdam"
+    start: "10/2019"
+    end: "04/2021"
+    summary: "Assistant to Prof. Theresa Kuhn, Challenges to Democratic Representation research group"
+
+  - role: "Research Assistant"
+    org: "Humboldt University of Berlin"
+    start: "11/2017"
+    end: "08/2019"
+    summary: "Assistant to Prof. Heike Klüver, Chair of Comparative Political Behaviour"
+
+skills:
+  - name: "Research Tools"
+    items:
+      - label: "R"
+        level: 5
+      - label: "Python"
+        level: 4
+      - label: "Git/GitHub"
+        level: 3
+      - label: "Qualtrics"
+        level: 5
+
+  - name: "Languages"
+    items:
+      - label: "English"
+        level: 5
+      - label: "German"
+        level: 5
+      - label: "Dutch"
+        level: 2
+      - label: "Italian"
+        level: 1
+
+# languages:
+#   - name: "English"
+#     level: 5
+#     label: "Native"
+#   - name: "Spanish"
+#     level: 4
+#     label: "Fluent"
+
+awards:
+  - title: "Junior Teaching Award"
+    awarder: "Faculty of Management, Economics, and Social Sciences, University of Cologne"
+    date: "2026-01-24"
+    date_display: "01/2026"
+    summary: "Awarded by the Faculty Board based on outstanding student evaluations for the course *European Politics in Times of Crisis* (2000€)"
+    icon: "hero/trophy"
+
+  - title: "Selten Grant"
+    awarder: "Reinhard Selten Institute, Universities of Bonn and Cologne"
+    date: "2024-10-01"
+    date_display: "10/2024"
+    summary: "Project: *Emergency Rhetoric in the European Union* (2000€)"
+    icon: "hero/banknotes"#               # Communication, Preferences, and Behaviour\n\n
 
 #               # **Methodological specialization:** Natural Language Processing, 
 #               # (Quasi-) Experiments, Advanced Survey Design and Analysis\n\n
