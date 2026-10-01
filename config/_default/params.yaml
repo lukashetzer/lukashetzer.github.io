@@ -38,7 +38,7 @@ hugoblox:
   footer:
     style: minimal
     language_switcher: false
-    text: '<a href="/impressum/">Impressum / Legal Notice</a>'
+    text: '<a href="/impressum/">Imprint / Legal Notice</a>'
 
   copyright:
     notice: "© {year} {name} This work is licensed under CC BY NC ND 4.0"
