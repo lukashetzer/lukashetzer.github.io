@@ -6,11 +6,11 @@ url: "/impressum/"
 ## Website operator
 
 Lukas Hetzer  
-Jacques Delors Centre
-Hertie School gGmbH
-Alexanderstraße 3
-10178 Berlin 
-Germany
+Jacques Delors Centre  
+Hertie School gGmbH  
+Alexanderstraße 3  
+10178 Berlin  
+Germany 
 
 ## Contact
 
