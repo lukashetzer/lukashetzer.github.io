@@ -1,14 +1,15 @@
 hugoblox:
   schema: "2.0"
+
   identity:
-    name: Lukas Hetzer
+    name: "Lukas Hetzer"
     type: person
-    tagline: Doctoral Researcher | University of Cologne
-    description: "Doctoral researcher in Political Science at the 
-                  University of Cologne. Research on EU politics, 
-                  crisis governance, political communication, and 
-                  public opinion using surveys, experiments, and 
-                  text-as-data."
+    tagline: "Research Associate | Hertie School"
+    description: >-
+      Research Associate at the Jacques Delors Centre at the Hertie School.
+      Research on European politics, crisis governance, political communication,
+      and public opinion using surveys, experiments, and computational text analysis.
+
   theme:
     mode: system
     pack: minimal
@@ -16,13 +17,16 @@ hugoblox:
       primary: "amber"
       secondary: "amber"
       neutral: "gray"
+
   typography:
     font: sans
     size: md
+
   layout:
     radius: md
     spacing: comfortable
     avatar_shape: circle
+
   header:
     enable: true
     style: navbar
@@ -30,11 +34,15 @@ hugoblox:
     align: center
     search: true
     theme_toggle: true
+
   footer:
     style: minimal
     language_switcher: false
+    text: '<a href="/impressum/">Impressum / Legal Notice</a>'
+
   copyright:
-    notice: © {year} {name} This work is licensed under CC BY NC ND 4.0
+    notice: "© {year} {name} This work is licensed under CC BY NC ND 4.0"
+
   content:
     math:
       enable: false
@@ -42,5 +50,6 @@ hugoblox:
       enable: true
     reading_time:
       enable: false
+
   search:
     enable: true
