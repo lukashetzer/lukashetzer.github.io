@@ -15,7 +15,32 @@ abstract: "Mainstream parties face mounting pressure from radical right challeng
 publication_types:
   - article-journal
 
-publication: "***Party Politics*** (forthcoming)"
+publication: "***Party Politics***"
 
-featured: false
+featured: true
+
+links:
+  - type: link
+    url: https://doi.org/10.1177/13540688261494377
+  # - type: code
+  #   url: https://github.com/HugoBlox/kit
+  # - type: dataset
+  #   url: ""
+  # - type: poster
+  #   url: ""
+  # - type: project
+  #   url: ""
+  # - type: slides
+  #   url: https://www.slideshare.net/
+  # - type: source
+  #   url: ""
+  # - type: video
+  #   url: ""
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder. 
+image:
+  caption: ''
+  focal_point: ""
+  preview_only: false
 ---
